@@ -1,1 +1,1 @@
-Autopwn scripts for retired boxes on hackthebox platform 
+# Autopwn scripts for retired boxes on hackthebox platform 
