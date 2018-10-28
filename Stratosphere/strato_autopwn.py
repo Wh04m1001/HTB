@@ -1,4 +1,5 @@
 #!/usr/bin/python2
+#Author: Wh04m1
 from pwn import *
 import requests
 import signal
